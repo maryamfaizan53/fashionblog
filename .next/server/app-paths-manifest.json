@@ -1,6 +1,5 @@
 {
-  "/not-found": "app/not-found.js",
-  "/about/page": "app/about/page.js",
   "/page": "app/page.js",
-  "/blog/[slug]/page": "app/blog/[slug]/page.js"
+  "/studio/[[...tool]]/page": "app/studio/[[...tool]]/page.js",
+  "/about/page": "app/about/page.js"
 }
