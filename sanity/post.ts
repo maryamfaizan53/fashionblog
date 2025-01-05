@@ -55,3 +55,7 @@ export const post = defineType({
     }),
   ],
 });
+
+
+
+//components ka folder kaha gya ??sham ko to tha
